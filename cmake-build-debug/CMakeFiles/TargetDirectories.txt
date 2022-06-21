@@ -1,0 +1,3 @@
+C:/Users/roza0/Desktop/c/cool c project/cmake-build-debug/CMakeFiles/cool_c_project.dir
+C:/Users/roza0/Desktop/c/cool c project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/roza0/Desktop/c/cool c project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
